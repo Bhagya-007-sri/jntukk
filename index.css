@@ -1,0 +1,91 @@
+#nav{
+    display: flex;
+     float:right;
+    margin-right: 20px;
+    block-size: 10;
+
+    
+
+}
+#button{
+    background-color: blue;
+    color: blanchedalmond;
+    border:0dvb;
+    padding: 10px 20px;
+    margin:0  10px;
+    font-size: larger;
+
+}
+.logo{
+    margin-left:2%;
+    font-size: 40px;
+    color: rgb(76, 63, 223);
+    text-align: center;
+}
+#hello{
+    color: bisque;
+}
+.m{
+    float:left;
+    margin-right:10px;
+    height:auto;
+    margin-left: 50%;
+    
+    
+}
+#h1{
+    display: flex;
+    margin-inline-start:auto;
+    color: blue;
+
+}
+.text{
+    display: flex;
+    margin-right:20px;
+    font-size: 16px;
+  
+
+}
+#h{
+    
+    color: blue;
+}
+p{
+    color: darkblue;
+}
+.b{
+    display:flex;
+    padding: 10px 20px;
+    color: rgb(225, 0, 45);
+    gap: 20px;
+    background-color: rgb(200, 39, 39);
+    height: 40px;
+    width: 110;
+    border-radius: 50px;
+}
+.button-container {
+  display: flex;          /* Makes items side by side */
+  gap: 500px;              /* Space between buttons */
+}
+
+.b{
+  padding: 10px 20px;
+  background-color:rgb(230, 6, 50);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.b {
+  background-color:red;
+}
+.P1{
+    display:flex;
+    gap:350;
+        color: blue;
+}
+.pp{
+   font-size: medium;
+
+}
